@@ -21,7 +21,7 @@ A personalized movie recommendation system built using collaborative filtering, 
 
 ## 🛠️ Tech Stack  
 - **Programming Language**: Python  
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
@@ -33,6 +33,3 @@ A personalized movie recommendation system built using collaborative filtering, 
 ├── requirements.txt       # Dependencies list  
 └── README.md              # Project documentation  
 
-## 📂 How to run
-git clone https://github.com/yourusername/movie-recommendation-system.git
-cd movie-recommendation-system
